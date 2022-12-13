@@ -1,46 +1,27 @@
-# HelloTools Community Discussions
+# 镜像站推荐(国内可访优先)
 
-In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions!
+| TYPE          | NODE                                                                                                                                                                                          |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf)                            |
+| Wikipedia     | [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) - [ahnu](https://www.wikipedia.ahnu.cf) - [wmmirror](https://zh.wikipedia.wmmirror.org/wiki)                |
+| Web Archive   | [a0.bucm.cf](https://a0.bucm.cf) - [a0.library](https://a0.library.edu.eu.org)                                                                                                                |
+| Web Proxy     | [HelloTools Global Proxy](https://hellotools.eu.org/)(cloudflare)                                                                                                                             |
+| DuckDuckGo    | [ddg0.bucm](https://ddg0.bucm.cf) - [ddg0.library](https://ddg0.library.edu.eu.org)                                                                                                           |
+| Github        | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [HelloTools Global Proxy](https://hellotools.eu.org/github.com)(cloudflare) |
 
-## Product Feedback
+## 支持
 
-| **Feedback Category** | **About the Product** 	|
-|---	|---	|
-| 🔁  [API and Webhooks](https://github.com/orgs/community/discussions/categories/api-and-webhooks) 	| [GitHub API](https://docs.github.com/en/rest) and [GitHub Webhooks](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhook) |
-| 🌐  [Feed](https://github.com/orgs/community/discussions/categories/feed)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
-|  🖼️  [Profile](https://github.com/orgs/community/discussions/categories/profile)  	| [GitHub Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
-|  💖  [Sponsors](https://github.com/orgs/community/discussions/categories/sponsors) 	| [GitHub Sponsors](https://github.com/sponsors) 	|
-| :octocat:  [General Feedback](https://github.com/orgs/community/discussions/categories/general) 	| [GitHub Docs](https://docs.github.com/en) |
+**自愿**打赏或捐助，本站**不承诺**这些。
 
-These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
+请使用[爱发电](https://afdian.net/a/xiaozhu2021)来捐赠，捐赠记录会自动记录在爱发电上（也会不定时更新在下方）。
 
-## Discussions Categories
+最后，感谢您的支持！
 
-You will also find previous Discourse Community Forum categories that have since been updated in Discussions categories below:
+---
 
-| **Discourse Category** | **New Discussions Category** 	|
-|---	|---	|
-| GitHub Help 	| New to GitHub |
-| Code to Cloud 	| Actions and Packages |
-| GitHub Ecosystem 	| APIs and Integrations 	|
-| Uncategorized 	| General 	|
+## 支持者列表
 
-When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
-
-## Making suggestions
-
-We encourage you to [open a discussion](https://github.com/xiaozhu2007/-/discussion) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations, so please check out [how to give good feedback](https://github.com/xiaozhu2007/-/discussions/1) for guidance on how to kick off a successful discussion.
-
-Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
-
-### From a suggestion to a shipped feature
-
-Once you start the discussion, the product team will evaluate the feedback, but will not be able to respond to each submission. From then on, we will work with you and the entire community to ensure that we understand what the product does not currently have and explore the potential solution space for your problem statement:
-
-- If the product team determines that we will give priority to a function to solve the problem you identified, we will open a problem in Issues and track its development
-
-- If the product team determines that we will not try to solve the problem you find, we can comment on the discussion describing our reasoning so that our decisions remain transparent.
-
-## Disclaimer
-
-Any statements in this repository that are not purely historical are considered forward-looking statements. Forward looking comments in the public feedback discussion do not represent a commitment, warranty, obligation or commitment to deliver any product or feature on any particular date, or to deliver any product or feature, which is intended to outline the overall development plan. You should not rely on these public feedback discussions to make any purchase decisions.
+| 时间       | 昵称     | 备注 | 金额  | 來源   |
+| ---------- | -------- | ---- | ----- | ------ |
+| 2021-08-26 | LEO      | -    | 20.00 | 微信   |
+| 2021-09-26 | adgh1478 | -    | 5.00  | 爱发电 |
