@@ -1,13 +1,13 @@
 # 镜像站推荐(国内可访优先)
 
-| TYPE          | NODE                                                                                                                                                                                          |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf)                            |
-| Wikipedia     | [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) - [ahnu](https://www.wikipedia.ahnu.cf) - [wmmirror](https://zh.wikipedia.wmmirror.org/wiki)                |
-| Web Archive   | [a0.bucm.cf](https://a0.bucm.cf) - [a0.library](https://a0.library.edu.eu.org)                                                                                                                |
-| Web Proxy     | [HelloTools Global Proxy](https://hellotools.eu.org/)(cloudflare)                                                                                                                             |
-| DuckDuckGo    | [ddg0.bucm](https://ddg0.bucm.cf) - [ddg0.library](https://ddg0.library.edu.eu.org)                                                                                                           |
-| Github        | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [HelloTools Global Proxy](https://hellotools.eu.org/github.com)(cloudflare) |
+| TYPE          | NODE                                                                                                                                                                                                  |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [Google Fun](https://googe.fun/) |
+| Wikipedia     | [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) - [ahnu](https://www.wikipedia.ahnu.cf) - [wmmirror](https://zh.wikipedia.wmmirror.org/wiki)                        |
+| Web Archive   | [a0.bucm.cf](https://a0.bucm.cf) - [a0.library](https://a0.library.edu.eu.org)                                                                                                                        |
+| Web Proxy     | [HelloTools Global Proxy](https://hellotools.eu.org/)(cloudflare)                                                                                                                                     |
+| DuckDuckGo    | [ddg0.bucm](https://ddg0.bucm.cf) - [ddg0.library](https://ddg0.library.edu.eu.org)                                                                                                                   |
+| Github        | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [HelloTools Global Proxy](https://hellotools.eu.org/github.com)(cloudflare)         |
 
 ## 支持
 
