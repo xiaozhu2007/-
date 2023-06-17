@@ -23,6 +23,13 @@ TL;DR: 不接受甩锅
 6. 如果您的网站被 DNS 污染, 可以考虑使用 <https://dns.sb> 提供的 DoH 服务
 7. Google Public DNS 的解析地址：<https://dns.google/>
 
+### 主要赞助商
+
+我们感谢为本项目的发展做出贡献并帮助我们扩大代理网络的赞助商。
+
+| <img src="https://gcore.com/favicon.ico" width="15" height="15"> [Gcore](https://gcore.com) | <img src="https://xtom.com/favicon.ico" width="15" height="15"> [xTom](https://xtom.com) | <img src="https://www.cloudflare.com/favicon.ico" width="15" height="15"> [CloudFlare](https://cloudflare.com/) |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+
 ## 支持
 
 1. 如果你有镜像站且 SLA 在 20% 以上可以提 Issue 提交给我们, 我们会在审查之后添加到对应的分类之中
