@@ -2,15 +2,14 @@
 
 > WARNNING: 本文所有内容均搜集自互联网，所有服务均没有 SLA 保证。请勿在镜像站上登录个人账号或者搜索个人隐私，否则**可能**会被泄露给第三方
 
-| TYPE          | NODE                                                                                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Google Search | [谷歌.mc-serve.cf](https://xn--flw351e.mc-serve.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHNU](https://search.ahnu.cf) - [Google Fun](gfun)    |
-| Wikipedia     | [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) - [ahnu](https://www.wikipedia.ahnu.cf) - [wmmirror](https://zh.wikipedia.wmmirror.org/wiki) |
-| Web Archive   | [a0.bucm.cf](https://a0.bucm.cf)                                                                                                                                               |
-| Web Proxy     | [HelloTools Global Proxy][htgp] (cloudflare)                                                                                                                                   |
-| DuckDuckGo    | [ddg0.bucm](https://ddg0.bucm.cf) - [ddg0.library](https://ddg0.library.edu.eu.org)                                                                                            |
-| Github        | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf) (cloudflare) - [nuaa](https://hub.nuaa.cf) (cloudflare) - [HelloTools Global Proxy][htgp] (cloudflare)               |
-| OpenSources   | [TUNA][tuna] - [USTC][ustc]                                                                                                                                                    |
+| TYPE / 类型   | NODE / 节点                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Google Search | [谷歌.mc-serve.cf](https://xn--flw351e.mc-serve.cf) - [Google Fun](gfun)                                                                   |
+| Wikipedia     | **全部失效**                                                                                                                               |
+| Web Archive   | **全部失效**                                                                                                                               |
+| Web Proxy     | [HelloTools Global Proxy][htgp] (cloudflare)                                                                                               |
+| Github        | [yzuu(cn)](https://hub.yzuu.cf) (cloudflare) - [nuaa(cn)](https://hub.nuaa.cf) (cloudflare) - [HelloTools Global Proxy][htgp] (cloudflare) |
+| OpenSources   | [TUNA][tuna] - [USTC][ustc]                                                                                                                |
 
 ## 免责声明
 
