@@ -44,7 +44,7 @@ TL;DR: 不接受甩锅
 | 2021-09-26 | adgh1478 | -    | 5.00  | 爱发电 |
 
 [gfun]: https://googe.fun/
-[htgp]: https://hellotools.eu.org/
+[htgp]: https://e.hellotools.eu.org/
 [tuna]: https://mirrors.tuna.tsinghua.edu.cn/
 [ustc]: https://mirrors.ustc.edu.cn/
 [issues]: https://github.com/xiaozhu2007/-/issues/new/choose
