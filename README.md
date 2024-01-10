@@ -9,6 +9,7 @@
 | Web Archive   | **全部失效**                                                                                                                               |
 | Web Proxy     | [HelloTools Global Proxy][htgp] (cloudflare)                                                                                               |
 | Github        | [yzuu(cn)](https://hub.yzuu.cf) (cloudflare) - [nuaa(cn)](https://hub.nuaa.cf) (cloudflare) - [HelloTools Global Proxy][htgp] (cloudflare) |
+| zlibrary      | **全部失效** - [数据下载](https://annas-archive.org/datasets/zlib)                                                                          |
 | OpenSources   | [TUNA][tuna] - [USTC][ustc]                                                                                                                |
 
 ## 免责声明
@@ -27,8 +28,9 @@ TL;DR: 不接受甩锅
 
 我们感谢为本项目的发展做出贡献并帮助我们扩大代理网络的赞助商。
 
-| <img src="https://gcore.com/favicon.ico" width="15" height="15"> [Gcore](https://gcore.com) | <img src="https://xtom.com/favicon.ico" width="15" height="15"> [xTom](https://xtom.com) | <img src="https://www.cloudflare.com/favicon.ico" width="15" height="15"> [CloudFlare](https://cloudflare.com/) |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://gcore.com/favicon.ico" width="15" height="15"> [Gcore](https://gcore.com) | <img src="https://xtom.com/favicon.ico" width="15" height="15"> [xTom](https://xtom.com) | <img src="https://www.cloudflare.com/favicon.ico" width="15" height="15"> [Cloudflare](https://cloudflare.com/) | <img src="https://www.rainyun.com/favicon.ico" width="15" height="15"> [雨云](https://dub.sh/rainyun) |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+
 
 ## 支持
 
